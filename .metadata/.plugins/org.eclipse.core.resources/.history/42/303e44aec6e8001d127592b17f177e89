@@ -1,0 +1,5 @@
+package productapp.controller;
+
+public class MainController {
+
+}

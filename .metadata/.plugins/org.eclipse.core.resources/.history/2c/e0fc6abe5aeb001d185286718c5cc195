@@ -1,0 +1,28 @@
+package core.spring;
+
+public class Employee {
+	
+	private int id;
+	private String name;
+	//class type
+	private Address address;
+
+	
+	
+	
+	
+
+
+
+
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", address=" + address + "]";
+	}
+	
+	
+	
+	
+	
+
+}
